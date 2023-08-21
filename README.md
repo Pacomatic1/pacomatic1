@@ -5,4 +5,4 @@ https://pacomatic1.github.io/pacomatic1/
 
 ## Just testing for a bit, excuse me!
 
-[![Pacomatic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pacomatic1)](https://github.com/Pacomatic1/github-readme-stats)
+[![Pacomatic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pacomatic1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Pacomatic1/github-readme-stats)
